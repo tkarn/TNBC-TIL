@@ -31,8 +31,8 @@
 	
 * [< n208tnbc_n304genes_RNAseq.csv >](https://github.com/tkarn/TNBC-TIL/blob/master/n208tnbc_n304genes_RNAseq.csv)
 
-	RNAseq data of 304 genes for 208 tnbc samples from TCGA (Level 3 RNA-Seq V2 data, log2(x+1) transformed).
-    (obtained from original file < TCGA_BRCA_exp_HiSeqV2-2015-02-24.tgz >)
+	RNAseq data of 304 genes for 208 tnbc samples from TCGA (Level 3 RNA-Seq V2 data, log2(x+1) transformed),
+    (obtained from original file < TCGA_BRCA_exp_HiSeqV2-2015-02-24.tgz >).
 	Complete RNAseq data of 1218 TCGA BRCA can be downloaded from [UCSC Xena browser](https://xenabrowser.net/datapages/?dataset=TCGA.BRCA.sampleMap/HiSeqV2&host=https://tcga.xenahubs.net).		
 
 * [< TCGA_BRCA_mutation_curated_wustl_gene-2015-02-24.tgz >](https://github.com/tkarn/TNBC-TIL/blob/master/TCGA_BRCA_mutation_curated_wustl_gene-2015-02-24.tgz)
